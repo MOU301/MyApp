@@ -1,0 +1,20 @@
+.spinnerParent{
+    width: 100%;
+    height: 80vh;
+}
+.spinnerParent>div{
+    height: inherit;
+}
+.spinner{
+    width: 100px;
+    height: 100px;
+  border:5px solid #09f;
+  border-bottom: 2px solid white;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+@keyframes spin {
+    to {
+      transform: rotate(360deg);
+    }
+  }

@@ -1,0 +1,30 @@
+[
+    {
+        "type":"video",
+        "src":""
+    },
+    {
+    "type":"ubung1",
+    "text":"Lorem ipsum dolor *** amet consectetur adipisicing ***.Recusandae praesentium et unde blanditiis laborum temporibus eveniet, iusto, *** modi fugit enim reiciendis *** deserunt *** facilis quaerat aspernatur *** pariatur sunt *** magni, perferendis laboriosam hic. Enim quos, reprehenderit temporibus laudantium mollitia error facere,*** vero voluptatibus sed *** asperiores eos porro debitis rerum *** doloremque qui labore quis.",
+    "ubung":["her","dir","sir","fir","sir","mir","ihr","uns","dich","sich","mir"]
+},{
+    "type":"ubung2",
+    "text":["how are you ?","how are you","how are you ?","wie alt bist du ?","lebst du mich ?"],
+    "ubung":[0,1,0,0,1]
+},{
+    "type":"audio1",
+     "src":""
+},
+{    "type":"ubung3",
+    "text":["one","two","three","four"],
+    "ubung":["one","two","three","four"]
+},{
+    "type":"ubung4",
+    "src":["stift.jpg","buch.jpg","radiergummi.jpg","stuhl.jpg"],
+    "ubung":["stift","buch","radiergummi","stuhl"]
+},{
+    "type":"dialog",
+    "src":["dialog.jpg"],
+    "text":"Ahmad**Anna, kommst du eigentlich aus Deutschland?**Anna**Ja, ich bin hier aufgewachsen, aber geboren bin ich in Russland. Meine Eltern sind von Sankt Petersburg nach Hamburg gezogen, als ich sehr klein war.**Ahmad**Interessant. Wie alt warst du damals?**Anna**Drei Jahre und zehn Monate, also fast vier.**Ahmad**Und kannst du dich an die Zeit in Russland erinnern?**Anna**Nicht wirklich. Ich habe fast alles vergessen.**Ahmad**Das ist schade! Aber du sprichst Russisch, oder?**Anna**Ja, zu Hause haben meine Eltern immer Russisch gesprochen. Also habe ich das auch gelernt. Mein Deutsch ist aber viel besser.**Ahmad**Wieso denn das? Russisch ist doch deine Muttersprache.**Anna**Ja, schon, aber ich bin in Deutschland zur Schule gegangen und studiere jetzt in Leipzig an der Universität. Russisch spreche ich nur in der Freizeit mit Verwandten und Freunden. Viele Wörter kenne ich aber nur auf Deutsch. Deshalb kann ich mich über schwierige Themen in dieser Sprache besser unterhalten.**Ahmad**Das kann ich verstehen. Ich bin nämlich auch zweisprachig aufgewachsen.**Anna**Echt? Das wusste ich gar nicht.**Ahmad**Ja, aber das erzähle ich dir ein anderes Mal. Jetzt muss ich los.**Anna**Alles klar. Dann bis später!"
+}
+]
